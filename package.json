@@ -1,0 +1,13 @@
+{
+  "name": "apm-counter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "X extension to calculate APM",
+  "main": "./index.coffee",
+  "author": "Yutian Li <hotpxless@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "",
+    "moment": ""
+  }
+}
